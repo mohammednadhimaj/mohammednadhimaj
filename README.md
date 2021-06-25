@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammednadhimaj
+- 👋 Hi, I’m Mohammed Nadhim
 - 👀 I’m interested in C\C++ for desktop apps
 - 🌱 I’m currently learning Qt6
 
